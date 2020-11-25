@@ -1,2 +1,2 @@
 # STARTS
-SAKUMS
+SAKUMS pamacibas
