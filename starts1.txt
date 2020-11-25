@@ -10,3 +10,4 @@ i9
 j10
 h11
 g12
+sveiki
