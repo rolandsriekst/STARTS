@@ -11,10 +11,7 @@ selector{
     #header{
         background-color: rgb(126, 3, 3);
         text-align: center;
-        background-size: 50px;
-        
-        
-    }
+        }
 
 .digit{
     line-height: 20px;
