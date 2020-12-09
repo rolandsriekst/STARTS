@@ -2,5 +2,45 @@ span{
     color: rgb(8, 247, 48);
 }
 
+selector{ 
+    property:value;
+    property2:value 2;
+    }
+    /*comentaRA tags*/
 
+    #header{
+        background-color: rgb(126, 3, 3);
+        text-align: center;
+        background-size: 50px;
+        
+        
+    }
 
+.digit{
+    line-height: 20px;
+    font-size: xx-small;
+}
+.some{
+    list-style: circle;
+    line-height: 50px;
+    font-weight: 100;
+}
+.header-buttons{
+    display: inline;
+}
+.header-buttons > *{
+    display: inline;
+}
+.header-buttons > a {
+    border-style: dotted;
+    border-color: blue;
+    background-color: chartreuse;
+    padding: 6px;
+    margin-right: 20px;
+}
+.footer{text-align: center;}
+.footer{
+    border-style: ridge;
+    border-width: 60px;
+    border-color: blueviolet;
+}
