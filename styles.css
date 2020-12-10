@@ -9,6 +9,8 @@ span{
     #header{
         background-color: rgb(126, 3, 3);
         text-align: center;
+        font-size: 20px;
+        
         }
 
 .digit{
@@ -38,4 +40,5 @@ span{
     border-style: ridge;
     border-width: 60px;
     border-color: blueviolet;
+    font-size: 20px;
 }
